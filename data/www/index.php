@@ -14,7 +14,7 @@
         <h1 class="text-primary">Docker + PHP + MySQL + Bootstrap + SASS</h1>
 
         <div class="alert alert-success">
-            Če vidiš ta stil → Bootstrap + SASS delujeta to je sprememba 🎉
+            Če vidiš ta stil → Bootstrap + SASS delujeta to je sprememba to je še ena spremeba 🎉
         </div>
 
         <p>Preveri povezavo na bazo zgoraj ⬆️</p>
